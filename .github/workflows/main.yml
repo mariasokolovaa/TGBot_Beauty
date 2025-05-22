@@ -27,8 +27,16 @@ jobs:
 
       - name: Analyze cyclomatic complexity with radon
         run: |
-          radon cc bot -a
+          radon cc bot -a | tee radon_report.txt
 
       - name: Highlight complexity issues with xenon
         run: |
-          xenon bot --max-absolute C --max-modules B --max-average A
+          xenon bot --max-absolute C --max-modules B --max-average A | tee xenon_report.txt
+
+      - name: Upload complexity reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: complexity-reports
+          path: |
+            radon_report.txt
+            xenon_report.txt
