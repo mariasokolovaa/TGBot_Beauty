@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "beauty-saloon-451808",
+  "private_key_id": "2af6e87e5767f6a6aca7518db2152e5bb1e50d65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXW/4ZNO12Mo6z\nVRdpxn2okbuDwATUFQwLCYlTrUsLS6/03iZrjdoy4KpIYnQs162T/g/jOe9UBUIC\nRwyq+ObgFYQrBiOYwWUxZVadLOCXY/Uc25mXJd0tWhakKKHRBqBw3MOHxFQCu04F\naMM2sf/Q4fzJse2jG+fhhB8ziTOH2+XszbxWyTv0Mnhsbo4aEIz/CdU8azuAF858\nMT9GaLfH3aQmXqA3BprdhxUcOaKvIP/+JVvGgrjR81DZLeh46dbwEaQAsbtpa1Xi\n9P7L3vyKOXwCxxs0yFkbBGWqIA5CZWxD3iDezfRJSF/U5kbyK7Iz5Ndd4ChHlFyt\nhSjnFZ2jAgMBAAECggEALxdZ+TG0Z7/XEgh5Xll5IwckVhtZ5TofIxf2d+hEnuEP\nf5nWTkQ2DPpFQHwRNRptUMwM2V9fDL8OCHNeh5slCbboBhLE5HPXLgUfa4tY3QEm\nc7IHGTWYmNGclbpmjggHxtWIqCb3FFp+LcSoZ839j1mgMoh/LO4zuMBIjNo1BCF1\n51sE6TL9Li+ste3Hlk2qhvnjjr/Talenn25MlEHGtZjPh/2+byECWHGRCbzdyTTi\n3lkWQvnu+JkMlcOgwKubNCCRbODvM26wju5atLvVPaGBUjHg37/VPDU4Ir1GpP3S\nl2IVQ74aCEvzfT7f0uXrPI/hcMzW+SJOB9aXyH5GsQKBgQDIlNDUoWYRpXJktJ3O\nYCfiEBmcM3CN1cEXTGZsypLkQte9sMVuX5xOuNRzx/oNVMOuDFg2acwuhRC7xlAH\nOLfmODNMeKnG2VtLu7SCiqLDrUSE7gZ5oS6dNOjNCTTx0xSO4PRJx0GlLb48jVtF\nBUy9+C4WAG5d19/mJqFOWlfifwKBgQDBLbDEZpE2fxoi9wmBIARUMbOZhrB5qOTd\nnfPNWq9lMU+pB4YUk7MZU64qxEq9BsOErVN0G3/AB6Fn9x366OgxWwnWsnaKUPYz\ng8wUDu608Ki+SQRj/E1Ctz8FyKZ+AqHmr+sc2cjaVuaSWkVQGL3upxjJPboCzzVq\nRXHVFlHq3QKBgGPXn7OXu2ThQ/XY6gxGVNP0S6sy973CPuFICFvy4fd5RkaH7V6p\nfPa6jhYr3s4v+U9zmZ1MQHSPi+rMJh3SH8gbBX31Oh1fKFCkWI/6Tla0srywdsyo\nbLmYEqGtCYuuFDeixjbLVmPQRzeA7YOHxdFx7g7JnCZeRHcdl4GW+tQlAoGAO7+U\nAsrucvqQ7OuXZvauIBRXRk7gWmCgmOL3uzYnNZcw2kjXcZnVNSoqnlOkAh8Lbgfl\n3e17b7tscql9/lL3LfzIaD0+aL1tyLUk87dCoXgl2OTglMQ+aTogJfvPcv4BcUZL\n49qAQvfJzM5azdE5PY01H1kWJTRNgxcDhDKpF4kCgYBe04hMscGVBe/AUOCod/tc\n33L4t27nay+vMvj6JAI6ECU8PydwPT6j1QCmIO8qIb/HLPV/R/OxagDayPMWbl+0\nyXwa2vNj8ROebtue41GGPdbR1jE+iJQXEYmEXp9noIOpguTiubVTOI+LpDDDbDXm\nnmLsdxJH5RzGZ8fWvC1nqg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "acc-869@beauty-saloon-451808.iam.gserviceaccount.com",
+  "client_id": "110149170867657726336",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acc-869%40beauty-saloon-451808.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
