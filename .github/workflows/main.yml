@@ -21,15 +21,19 @@ jobs:
           pip install -r requirements.txt
           pip install pytest radon xenon
 
+      - name: Run all tests
+        run: |
+          PYTHONPATH=. pytest tests
+
       - name: Run specific test file
         run: |
           PYTHONPATH=. pytest tests/test1.py
 
-      - name: Analyze cyclomatic complexity with radon
+      - name: Analyze cyclomatic complexity with Radon
         run: |
           radon cc bot -a | tee radon_report.txt
 
-      - name: Highlight complexity issues with xenon
+      - name: Highlight complexity issues with Xenon
         run: |
           xenon bot --max-absolute C --max-modules B --max-average A | tee xenon_report.txt
 
