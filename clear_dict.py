@@ -68,6 +68,3 @@ def clear_client_dict(period_clear_minutes=60) -> None:
                 clear_all_dict(chat_id)
 
 
-clear_thread = Thread(target=clear_client_dict)
-clear_thread.daemon = True
-clear_thread.start()
